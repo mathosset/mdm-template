@@ -1,0 +1,15 @@
+#banner {
+  background-image: image-url("background.jpg");
+  background-size: cover;
+  padding: 150px 0px;
+  color: white;
+  height: 650px;
+  h1 {
+    font-size: 65px;
+    color: white;
+  }
+  p {
+    font-size: 25px;
+    font-weight: 200;
+  }
+}
